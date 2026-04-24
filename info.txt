@@ -1,0 +1,2 @@
+Aprendi acerca de como es que se crean conflictos en git
+Y como subir todo con push a git 
